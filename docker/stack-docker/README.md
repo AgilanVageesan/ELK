@@ -1,7 +1,4 @@
-# ARCHIVED
-
-This project is no longer maintained. For alternative getting started
-experiences, you may want to try one of these options:
+Try one of these options:
 
 - Start a
   [free trial on Elastic Cloud](https://www.elastic.co/cloud/elasticsearch-service/signup),
